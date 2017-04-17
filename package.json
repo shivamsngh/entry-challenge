@@ -1,0 +1,27 @@
+{
+  "name": "atl-challenge",
+  "version": "0.9.0",
+  "description": "ATL challenge implementation on NodeJS server.",
+  "main": "app-start.js",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.15.2",
+    "mongoose": "^4.9.4",
+    "multer": "^1.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "''"
+  },
+  "repository": {
+    "type": "git",
+    "url": "''"
+  },
+  "keywords": [
+    "challenge",
+    "hack"
+  ],
+  "author": "Shivam Singh",
+  "license": "UNLICENSED"
+}
