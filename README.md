@@ -1,8 +1,8 @@
-# entry-challenge
-The application is a scalable solution to most of the entry challenges(quiz type) and uses MongoDB, and NodeJS. The front-end is designed using jQuery and HTML5 which can be modified as per usage..
-Teh DB path should correspond to the DB folder of the project.
+# Entry Challenge
+The application is a scalable solution to most of the entry challenges(quiz types) and uses MongoDB, and NodeJS. The front-end is designed using jQuery and HTML5 which can be modified as per usage.
+The DB path should correspond to the DB folder of the project.
 
-The NODE based API also contains APi calls tp insert,
+The NODE based API also contains APi calls for DB CRUD operations,
 
 Candidates,
 Questions,
